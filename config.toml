@@ -1,0 +1,4 @@
+baseURL = "https://beautypoemsfeedr.vercel.app"
+languageCode = "en-us"
+title = "Funny Poems 1"
+theme = "tale-hugo-master"
